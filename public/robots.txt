@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /profile
+Disallow: /orders
+Disallow: /checkout
+
+Sitemap: https://inkzo.shop/sitemap.xml
